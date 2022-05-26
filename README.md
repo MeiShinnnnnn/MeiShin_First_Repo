@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MeiShinnnnnn
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on interesting projects
+- 👋 Hello, I’m @MeiShinnnnnn!
+- 👀 I’m a recent graduate currently working as a Business Inteligence (Analytics & Insights) Associate.
+- 🌱 I mainly use SQL to finish my tasks at work, self-learning Python and web development.
+- 💞️ I’m looking to collaborate on interesting projects :D
 
 <!---
 MeiShinnnnnn/MeiShinnnnnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
